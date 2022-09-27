@@ -1,0 +1,9 @@
+.\objects\led_control.o: LED_Control.c
+.\objects\led_control.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\led_control.o: NVIC_interface.h
+.\objects\led_control.o: GPIO_interface.h
+.\objects\led_control.o: GPIO_private.h
+.\objects\led_control.o: GPT_interface.h
+.\objects\led_control.o: GPT_private.h
+.\objects\led_control.o: STK_interface.h
+.\objects\led_control.o: LED_Control.h
